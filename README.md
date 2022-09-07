@@ -15,10 +15,10 @@
 <b>RUNNING</b>: Begin by navigating to the project in your terminal of choice and create an executable from all files.
 
 ```
-gcc driver.cpp BST.h BST.cpp -o driver.exe
+g++ driver.cpp BST.h BST.cpp -o driver.exe
 ```
 
-*NOTE, ```gcc``` in this example corresponds to the GNU Compiler Collection, which is the compiler I use for compiling my C++ programs. If using an alternative compiler, follow that compiler's documentation and you should arrive at the same results.*
+*NOTE, ```g++``` in this example corresponds to the GNU Compiler Collection, which is the compiler I use for compiling my C++ programs. If using an alternative compiler, follow that compiler's documentation and you should arrive at the same results.*
 
 Next, run the executable file from the terminal.
 ```
@@ -26,3 +26,8 @@ driver.exe
 ```
 
 The code then will run. Feel free to tinker around with the code and remember to recompile a new executable and rerun the executable in order to see all changes.
+
+
+------
+
+*Please reach out if you would like the product descriptor for this project. I am not placing it here on the repo to prevent plagiarism if this project is taught/used again at Wheaton College MA.*
